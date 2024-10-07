@@ -715,7 +715,7 @@ ss_4 = [];
 for (i = 0; i < arr2_1.length; i++) {
   ss_4.push(arr2_1[i].name);
 }
-console.log(ss_4);
+console.log(ss_4);s
 for (k = 0; k < ss_4.length; k++) {
   sum = 0;    
   // console.log(ss_4[k]);
